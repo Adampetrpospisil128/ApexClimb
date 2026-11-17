@@ -2,7 +2,7 @@
 
 A precision 2D vertical platformer built from scratch in C# and Raylib-cs with Clean Architecture, custom AABB physics, and xUnit tests.
 
-![Gameplay Preview](preview.gif)
+<img width="965" height="608" alt="Animation" src="https://github.com/user-attachments/assets/44357ab2-ac7a-4a7f-bbd6-b87b96cd0285" />
 
 ## Features
 
