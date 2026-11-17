@@ -1,4 +1,4 @@
-# ApexClimb
+# ApexClimb.Game
 
 A precision 2D vertical platformer built from scratch in C# and Raylib-cs with Clean Architecture, custom AABB physics, and xUnit tests.
 
